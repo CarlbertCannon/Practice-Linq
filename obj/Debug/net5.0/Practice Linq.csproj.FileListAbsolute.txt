@@ -1,0 +1,16 @@
+C:\Users\FrankDaTank\source\repos\Practice Linq\obj\Debug\net5.0\Practice Linq.csproj.AssemblyReference.cache
+C:\Users\FrankDaTank\source\repos\Practice Linq\obj\Debug\net5.0\Practice Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrankDaTank\source\repos\Practice Linq\obj\Debug\net5.0\Practice Linq.AssemblyInfoInputs.cache
+C:\Users\FrankDaTank\source\repos\Practice Linq\obj\Debug\net5.0\Practice Linq.AssemblyInfo.cs
+C:\Users\FrankDaTank\source\repos\Practice Linq\obj\Debug\net5.0\Practice Linq.csproj.CoreCompileInputs.cache
+C:\Users\FrankDaTank\source\repos\Practice Linq\bin\Debug\net5.0\Practice Linq.exe
+C:\Users\FrankDaTank\source\repos\Practice Linq\bin\Debug\net5.0\Practice Linq.deps.json
+C:\Users\FrankDaTank\source\repos\Practice Linq\bin\Debug\net5.0\Practice Linq.runtimeconfig.json
+C:\Users\FrankDaTank\source\repos\Practice Linq\bin\Debug\net5.0\Practice Linq.runtimeconfig.dev.json
+C:\Users\FrankDaTank\source\repos\Practice Linq\bin\Debug\net5.0\Practice Linq.dll
+C:\Users\FrankDaTank\source\repos\Practice Linq\bin\Debug\net5.0\ref\Practice Linq.dll
+C:\Users\FrankDaTank\source\repos\Practice Linq\bin\Debug\net5.0\Practice Linq.pdb
+C:\Users\FrankDaTank\source\repos\Practice Linq\obj\Debug\net5.0\Practice Linq.dll
+C:\Users\FrankDaTank\source\repos\Practice Linq\obj\Debug\net5.0\ref\Practice Linq.dll
+C:\Users\FrankDaTank\source\repos\Practice Linq\obj\Debug\net5.0\Practice Linq.pdb
+C:\Users\FrankDaTank\source\repos\Practice Linq\obj\Debug\net5.0\Practice Linq.genruntimeconfig.cache
